@@ -44,7 +44,7 @@ To run this project locally:
 
 ## 🌐 Live Demo
 
-Check out the portfolio: [Add your live URL here if available]
+Check out the portfolio: [https://syeduzaiir.github.io/Uzair-Portfolio1/]
 
 ---
 
