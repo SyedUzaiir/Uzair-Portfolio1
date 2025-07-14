@@ -16,9 +16,9 @@ This repository contains the source code for My personal portfolio website. The 
 
 ## 🛠️ Technologies Used
 
-- **HTML** (66.2%)
-- **CSS** (32.3%)
-- **JavaScript** (1.5%)
+- **HTML** 
+- **CSS** 
+- **JavaScript** 
 
 ---
 
