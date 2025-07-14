@@ -1,6 +1,6 @@
 # Uzair Portfolio
 
-This repository contains the source code for Uzair's personal portfolio website. The project showcases my web development skills with a focus on responsive design, modern UI, and interactivity.
+This repository contains the source code for My personal portfolio website. The project showcases my web development skills with a focus on responsive design, modern UI, and interactivity.
 
 ---
 
