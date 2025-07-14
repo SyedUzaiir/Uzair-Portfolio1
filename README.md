@@ -22,14 +22,6 @@ This repository contains the source code for Uzair's personal portfolio website.
 
 ---
 
-## 📸 Screenshots
-
-<!-- Replace the links with your own screenshots -->
-![Home Page](screenshots/home.png)
-![Projects Section](screenshots/projects.png)
-
----
-
 ## 🔧 Installation
 
 To run this project locally:
